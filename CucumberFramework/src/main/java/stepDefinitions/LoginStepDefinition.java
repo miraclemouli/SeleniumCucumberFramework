@@ -20,7 +20,7 @@
 //	
 //	 @Given("^user is already on Login Page$")
 //	 public void user_already_on_login_page(){
-//	 System.setProperty("webdriver.chrome.driver","/Users/naveenkhunteta/Downloads/chromedriver");
+//	 System.setProperty("webdriver.chrome.driver","/Users/miraclemouli/Downloads/chromedriver");
 //	 driver = new ChromeDriver();
 //	 driver.get("https://www.freecrm.com/index.html");
 //	 }
